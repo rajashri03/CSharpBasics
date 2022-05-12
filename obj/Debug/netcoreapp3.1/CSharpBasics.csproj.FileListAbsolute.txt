@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.exe
+C:\Users\Admin\Desktop\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.deps.json
+C:\Users\Admin\Desktop\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.dll
+C:\Users\Admin\Desktop\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.pdb
+C:\Users\Admin\Desktop\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.dll
+C:\Users\Admin\Desktop\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.pdb
+C:\Users\Admin\Desktop\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.genruntimeconfig.cache
