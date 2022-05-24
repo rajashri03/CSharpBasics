@@ -1,0 +1,14 @@
+D:\RFP146\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.exe
+D:\RFP146\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.deps.json
+D:\RFP146\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.json
+D:\RFP146\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.dev.json
+D:\RFP146\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.dll
+D:\RFP146\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.pdb
+D:\RFP146\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.csproj.AssemblyReference.cache
+D:\RFP146\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP146\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfoInputs.cache
+D:\RFP146\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfo.cs
+D:\RFP146\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.csproj.CoreCompileInputs.cache
+D:\RFP146\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.dll
+D:\RFP146\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.pdb
+D:\RFP146\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.genruntimeconfig.cache
